@@ -1,7 +1,4 @@
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hello+World!+This+is+Yashwanth+Gowda+KS&color=FFFFFF&background=4B008200" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&borerRadius=12&width=700&height=60&lines=Hello+World!+This+is+Yashwanth+Gowda+KS&color=FFFFFF&background=4B008200" alt="Typing Animation" /> </p>>
 
 <!-- Gradient Subtitle -->
 <div align="center">
@@ -40,8 +37,12 @@
 <br/><br/>
 
 ### 📊 Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
-<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="48"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="48"/>
+</p>
 
 <br/><br/>
 
@@ -65,9 +66,6 @@
 <!-- GitHub Analytics -->
 <div align="center">
   <h2 style="color:#00f7ff;">GitHub Analytics</h2>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASHWANTHGOWDAKS5&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=00f7ff" />
-
   <br/><br/>
 
   <!-- Activity Graph ONLY -->
