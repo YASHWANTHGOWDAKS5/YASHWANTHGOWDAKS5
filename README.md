@@ -1,14 +1,15 @@
-
-<h2 align="center"
+<h1 align="center"
 style="
-background: linear-gradient(90deg, #6a11cb, #2575fc);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 800;
+letter-spacing: 0.8px;
+background: linear-gradient(90deg, #5f2c82, #49a09d);
 -webkit-background-clip: text;
 background-clip: text;
 color: transparent;
-font-weight: bold;">
+margin-top: 30px;">
 Hello, I’m Yashwanth Gowda KS
-</h2>
-
+</h1>
 <!-- Gradient Subtitle -->
 <div align="center">
   <h3 style="
@@ -30,7 +31,7 @@ Hello, I’m Yashwanth Gowda KS
 
 <!-- Typing Tech Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Python+%7C+%7C+C;Data+Analysis;Machine+Learning+%7C+Data+Preprocessing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Python+%7C+C;Data+Analysis;Machine+Learning+%7C+Data+Preprocessing" />
 </p>
 
 <hr/>
