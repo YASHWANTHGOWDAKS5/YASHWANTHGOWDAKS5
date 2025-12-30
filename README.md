@@ -1,10 +1,13 @@
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?color=FFD700&lines=Hello+World+This+is+Yashwanth+Gowda+KS"
-    alt="Typing Animation"
-  />
-</p>
+<h2 align="center"
+style="
+background: linear-gradient(90deg, #6a11cb, #2575fc);
+-webkit-background-clip: text;
+background-clip: text;
+color: transparent;
+font-weight: bold;">
+Hello, I’m Yashwanth Gowda KS
+</h2>
 
 <!-- Gradient Subtitle -->
 <div align="center">
@@ -27,7 +30,7 @@
 
 <!-- Typing Tech Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+C;Data+Analysis;Machine+Learning+%7C+Data+Preprocessing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Python+%7C+%7C+C;Data+Analysis;Machine+Learning+%7C+Data+Preprocessing" />
 </p>
 
 <hr/>
@@ -38,7 +41,7 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,c" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 
 <br/><br/>
 
