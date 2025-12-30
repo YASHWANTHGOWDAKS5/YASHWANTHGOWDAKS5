@@ -1,7 +1,7 @@
 
-<p align="center"> 
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&borderRadius=12&width=700&height=60&lines=Hello+World!+This+is+Yashwanth+Gowda+KS&color=FFFFFF&background=4B008200" 
+    src="https://readme-typing-svg.demolab.com?color=FFD700&lines=Hello+World+This+is+Yashwanth+Gowda+KS"
     alt="Typing Animation"
   />
 </p>
