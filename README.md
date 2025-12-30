@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&borerRadius=12&width=700&height=60&lines=Hello+World!+This+is+Yashwanth+Gowda+KS&color=FFFFFF&background=4B008200" alt="Typing Animation" /> </p>>
+<p align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&borerRadius=12&width=700&height=60&lines=Hello+World!+This+is+Yashwanth+Gowda+KS&color=FFFFFF&background=4B008200" alt="Typing Animation" />
+</p>
 
 <!-- Gradient Subtitle -->
 <div align="center">
@@ -42,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
 </p>
 
 <br/><br/>
