@@ -65,14 +65,3 @@ Hello, I’m Yashwanth Gowda KS
 </div>
 
 <hr/>
-
-<!-- GitHub Analytics -->
-<div align="center">
-  <h2 style="color:#00f7ff;">GitHub Analytics</h2>
-  <br/><br/>
-
-  <!-- Activity Graph ONLY -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YASHWANTHGOWDAKS5&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-<hr/>
