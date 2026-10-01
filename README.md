@@ -45,7 +45,6 @@ Hello, I’m Yashwanth Gowda KS
 <img src="https://skillicons.dev/icons?i=python,c" />
 
 <br/><br/>
-
 ### 📊 Data Science & Machine Learning
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
@@ -56,17 +55,10 @@ Hello, I’m Yashwanth Gowda KS
 </p>
 
 <br/><br/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-<br/><br/>
-
-### Backend & Databases
+### Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 <br/><br/>
-
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github" />
 
