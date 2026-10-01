@@ -25,7 +25,7 @@ Hello, I’m Yashwanth Gowda KS
       border-radius: 12px;
       display: inline-block;
       margin: 10px 0;">
-    <strong>AI Enthusiast</strong> • <strong>Data Analysis & Machine Learning</strong>
+    <strong><strong>Data Analysis & Machine Learning</strong>
   </h3>
 </div>
 
